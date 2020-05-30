@@ -1,9 +1,13 @@
+body{
+  background-color: #00BFFF;
+}
+
 .pixelart{
     width: 20px;
     height: 20px;
-    background: #FFFFFF;
+    
     box-shadow:
-      0px 0px 0px 0px #FFFFFF,
+      
       20px 0px 0px 0px #000,
       40px 0px 0px 0px #000,
       540px 0px 0px 0px #000,
@@ -12,13 +16,11 @@
       
       /*Segunda Linha*/
       
-      0px 20px 0px 0px #FFFFFF,
+      
       20px 20px 0px 0px #000,
       40px 20px 0px 0px #000,
       60px 20px 0px 0px #000,
       80px 20px 0px 0px #000,
-      460px 20px 0px 0px #FFFFFF,
-      480px 20px 0px 0px #FFFFFF,
       500px 20px 0px 0px #000,
       520px 20px 0px 0px #000,
       540px 20px 0px 0px #000,
@@ -29,16 +31,12 @@
       /*Terceira Linha*/
       
       
-      0px 40px 0px 0px #FFFFFF,
+      
       20px 40px 0px 0px #000,
       40px 40px 0px 0px #000,
       60px 40px 0px 0px #000,
       80px 40px 0px 0px #FFFF00,
       100px 40px 0px 0px #000,
-      400px 40px 0px 0px #FFFFFF,
-      420px 40px 0px 0px #FFFFFF,
-      440px 40px 0px 0px #FFFFFF,
-      460px 40px 0px 0px #FFFFFF,
       480px 40px 0px 0px #000,
       500px 40px 0px 0px #FFFF00,
       520px 40px 0px 0px #000,
@@ -49,7 +47,7 @@
       
       /*Quarta Linha*/
       
-      0px 60px 0px 0px #FFFFFF,
+    
       20px 60px 0px 0px #000,
       40px 60px 0px 0px #000,
       60px 60px 0px 0px #000,
@@ -57,9 +55,6 @@
       100px 60px 0px 0px #FFFF00,
       120px 60px 0px 0px #000,
       140px 60px 0px 0px #000,
-      380px 60px 0px 0px #FFFFFF,
-      400px 60px 0px 0px #FFFFFF,
-      420px 60px 0px 0px #FFFFFF,
       440px 60px 0px 0px #000,
       460px 60px 0px 0px #000,
       480px 60px 0px 0px #FFFF00,
@@ -72,8 +67,7 @@
       
       /*Quinta Linha*/
       
-      0px 80px 0px 0px #FFFFFF,
-      20px 80px 0px 0px #FFFFFF,
+     
       40px 80px 0px 0px #000,
       60px 80px 0px 0px #000,
       80px 80px 0px 0px #FFFF00,
@@ -81,9 +75,6 @@
       120px 80px 0px 0px #FFFF00,
       140px 80px 0px 0px #FFFF00,
       160px 80px 0px 0px #000,
-      360px 80px 0px 0px #FFFFFF,
-      380px 80px 0px 0px #FFFFFF,
-      400px 80px 0px 0px #FFFFFF,
       420px 80px 0px 0px #000,
       440px 80px 0px 0px #FFFF00,
       460px 80px 0px 0px #FFFF00,
@@ -95,8 +86,7 @@
       
       /*Sexta Linha*/
       
-      0px 100px 0px 0px #FFFFFF,
-      20px 100px 0px 0px #FFFFFF,
+      
       40px 100px 0px 0px #000,
       60px 100px 0px 0px #000,
       80px 100px 0px 0px #FFFF00,
@@ -110,8 +100,6 @@
       280px 100px 0px 0px #000,
       300px 100px 0px 0px #000,
       320px 100px 0px 0px #000,
-      340px 100px 0px 0px #FFFFFF,
-      360px 100px 0px 0px #FFFFFF,
       380px 100px 0px 0px #000,
       400px 100px 0px 0px #000,
       420px 100px 0px 0px #FFFF00,
